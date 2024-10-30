@@ -1,0 +1,116 @@
+
+/* Light Post */
+
+/* Options */
+
+#light-post-sponsorship {
+	font-size: 9px;
+}
+
+#light-post-resources {
+	float: right;
+	padding: 10px;
+	width: 180px;
+	margin-top: 30px;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFEEB;
+}
+
+#light-post-options {
+	float: left;
+}
+
+#light-post-options input[type="text"] {
+	width: 50px;
+	text-align: right;
+}
+
+/* Form */
+
+#light-post-form {
+	font-family: Verdana;
+	font-size: 12px;
+	color: black;
+}
+
+#light-post-form a:link,
+#light-post-form a:visited,
+#light-post-form a:hover,
+#light-post-form a:active {
+	color: #0000FF
+}
+
+#light-post-form p {
+	margin: 5px 0;
+}
+
+#light-post-form input[type="text"] {
+	width: 250px;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+}
+
+#light-post-form select {
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+}
+
+#light-post-form textarea {
+	height: 300px;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	margin-bottom: 5px;
+}
+
+#light-post-form input[type="submit"],
+#light-post-form input[type="button"] {
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+}
+
+#light-post-form input[name="post_bold_button"] {
+	font-weight: bold;
+}
+
+#light-post-form input[name="post_italic_button"] {
+	font-style: italic;
+}
+
+#light-post-list {
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: #808080;
+	border-collapse: collapse;
+	width: 99%;
+	margin: 10px 0;
+}
+
+#light-post-list td {
+	border-width: 1px;
+	padding: 2px;
+	border-style: solid;
+	border-color: #808080;
+}
+
+.light-post-title {
+	font-weight: bold;
+}
+
+.light-post-box {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #808080;
+	-moz-border-radius: 5px;
+	padding-left: 5px;
+	margin-bottom: 5px;
+	width: 99%;
+}
+
+.light-post-draft {
+	font-weight: bold;
+}
